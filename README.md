@@ -11,7 +11,7 @@ This is a versatile and easy-to-use website template designed for any club or or
 - **Social Media Integration**: Add links to your club’s social media pages to stay connected with your community.
 
 ## Live Demo
-You can view the live demo of the website [here]([your-website-link](https://lourimi-ayoub.github.io/club-website/)).
+You can view the live demo of the website [here](https://lourimi-ayoub.github.io/club-website/).
 
 ## Installation
 To get started, simply clone the repository and open the `index.html` file in your browser.
