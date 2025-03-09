@@ -9,3 +9,14 @@ This is a versatile and easy-to-use website template designed for any club or or
 - **Event Calendar**: Display and manage upcoming events and activities.
 - **Member Section**: Showcase your club's members and their roles, making it easy to highlight key individuals.
 - **Social Media Integration**: Add links to your club’s social media pages to stay connected with your community.
+
+## Live Demo
+You can view the live demo of the website [here]([your-website-link](https://lourimi-ayoub.github.io/club-website/)).
+
+## Installation
+To get started, simply clone the repository and open the `index.html` file in your browser.
+
+```bash
+git clone https://github.com/yourusername/club-website-template.git
+cd club-website-template
+open index.html
